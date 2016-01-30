@@ -339,11 +339,5 @@
     <string-array name="config_cell_retries_per_error_code">
         <item>36,3</item> <!-- REGULAR_DEACTIVATION, 3 retries -->
     </string-array>
-
-    <!-- Screen brightness when dozing -->
-    <integer name="config_screenBrightnessDoze">15</integer>
-
-    <!-- Doze: force using accelerometer as pick up sensor -->
-    <bool name="config_dozeUseAccelerometer">true</bool>
-    
+   
 </resources>
